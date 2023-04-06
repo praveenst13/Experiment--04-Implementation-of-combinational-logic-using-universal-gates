@@ -27,17 +27,20 @@ NOR gate is actually a combination of two logic gates: OR gate followed by NOT g
 F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 
 ## Logic Diagram
+![img](truth.png)
 ## Procedure
 ## Program:
 /*
 Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: praveen s
+RegisterNumber:  212222240077
 */
 ## RTL realization
 
 ## Output:
 ## RTL
+![img](rtl.png)
 ## Timing Diagram
+![img](wave.png)
 ## Result:
 Thus the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
