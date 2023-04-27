@@ -18,7 +18,7 @@ Logic gates are electronic circuits which perform logical functions on one or mo
 The input and output variables are allocated with letter symbols. The exact truth table that defines the required relationships between inputs and outputs is derived. The simplified Boolean function is obtained from each output. The logic diagram is drawn.
 ## Program:
 /*
-Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.
+Program to implement the given logic function and verify its operations in quartus using Verilog programming.
 ```
 Developed by: praveen s
 RegisterNumber:  212222240077
