@@ -1,8 +1,8 @@
-# Experiment--02-Implementation-of-combinational-logic-using-universal-gates
-Implementation of combinational logic using universal-gates
+# Experiment--02-Implementation-of-combinational-logic-circuit
+Implementation of combinational logic circuit
  
 ## AIM:
-To implement the given logic function verify its operation in Quartus using Verilog programming. 
+To implement the given logic function and verify its operation in Quartus using Verilog programming. 
 F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
@@ -15,7 +15,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 Logic gates are electronic circuits which perform logical functions on one or more inputs to produce one output. 
 
 ## Procedure
-The input and output variables are allocated with letter symbols. The exact truth table that defines the required relationships between inputs and outputs is derived. The simplified Boolean function is obtained from each output. The logic diagram is drawn.
+The input and output variables are allocated with letter symbols. The exact truth table that defines the required relationships between inputs and outputs is derived.Boolean function is obtained from each output.
 ## Program:
 /*
 Program to implement the given logic function and verify its operations in quartus using Verilog programming.
