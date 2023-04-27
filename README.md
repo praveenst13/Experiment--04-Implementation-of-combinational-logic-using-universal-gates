@@ -57,6 +57,8 @@ endmodule
 ## RTL realization
 
 ## Output:
+## TRUTH TABLE
+![IMG](s1.png)
 ## RTL
 ### F1
 ![img](r.png)
