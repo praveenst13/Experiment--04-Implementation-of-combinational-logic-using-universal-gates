@@ -39,8 +39,12 @@ RegisterNumber:  212222240077
 
 ## Output:
 ## RTL
-![img](rtl.png)
+### F1
+![img](r.png)
+
+### F2
+![img](rt.png)
 ## Timing Diagram
-![img](wave.png)
+![img](w.png)
 ## Result:
 Thus the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
